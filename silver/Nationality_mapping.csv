@@ -1,0 +1,209 @@
+Korean_Nationality,English_Nationality,ISO_Code,Primary_Language,Language_Code
+None,,,,
+가나,Ghana,GH,English,en
+가봉,Gabon,GA,French,fr
+가이아나,Guyana,GY,English,en
+감비아,Gambia,GM,English,en
+과테말라,Guatemala,GT,Spanish,es
+그레나다,Grenada,GD,English,en
+그리스,Greece,GR,Greek,el
+기니,Guinea,GN,French,fr
+기니비사우,Guinea-Bissau,GW,Portuguese,pt
+나미비아,Namibia,NA,English,en
+나우루,Nauru,NR,"Nauruan, English","na, en"
+나이지리아,Nigeria,NG,English,en
+남수단,South Sudan,SS,English,en
+남아프리카,South Africa,ZA,"Zulu, Xhosa, Afrikaans, English","zu, xh, af, en"
+네덜란드,Netherlands,NL,Dutch,nl
+네팔,Nepal,NP,Nepali,ne
+노르웨이,Norway,NO,Norwegian,no
+뉴질랜드,New Zealand,NZ,"English, Maori","en, mi"
+니제르,Niger,NE,French,fr
+니카라과,Nicaragua,NI,Spanish,es
+덴마크,Denmark,DK,Danish,da
+도미니카,Dominica,DM,English,en
+독일,Germany,DE,German,de
+동티모르,Timor-Leste,TL,"Tetum, Portuguese","tet, pt"
+라오스,Laos,LA,Lao,lo
+라이베리아,Liberia,LR,English,en
+라트비아,Latvia,LV,Latvian,lv
+러시아,Russia,RU,Russian,ru
+레바논,Lebanon,LB,Arabic,ar
+레소토,Lesotho,LS,"Sesotho, English","st, en"
+루마니아,Romania,RO,Romanian,ro
+룩셈부르크,Luxembourg,LU,"Luxembourgish, French, German","lb, fr, de"
+르완다,Rwanda,RW,"Kinyarwanda, French, English","rw, fr, en"
+리비아,Libya,LY,Arabic,ar
+리투아니아,Lithuania,LT,Lithuanian,lt
+리히텐슈타인,Liechtenstein,LI,German,de
+마다가스카르,Madagascar,MG,"Malagasy, French","mg, fr"
+마샬군도,Marshall Islands,MH,"Marshallese, English","mh, en"
+마케도니아,North Macedonia,MK,Macedonian,mk
+말라위,Malawi,MW,English,en
+말레이시아,Malaysia,MY,Malay,ms
+말리,Mali,ML,French,fr
+멕시코,Mexico,MX,Spanish,es
+모나코,Monaco,MC,French,fr
+모로코,Morocco,MA,"Arabic, Berber","ar, ber"
+모리셔스,Mauritius,MU,English,en
+모리타니,Mauritania,MR,Arabic,ar
+모잠비크,Mozambique,MZ,Portuguese,pt
+몬테네그로,Montenegro,ME,Montenegrin,sr
+몰도바,Moldova,MD,Romanian,ro
+몰디브,Maldives,MV,Dhivehi,dv
+몰타,Malta,MT,"Maltese, English","mt, en"
+몽골,Mongolia,MN,Mongolian,mn
+미국,United States,US,English,en
+미얀마,Myanmar,MM,Burmese,my
+미이크로네시아,Micronesia,FM,English,en
+바누아투,Vanuatu,VU,"Bislama, English, French","bi, en, fr"
+바레인,Bahrain,BH,Arabic,ar
+바베이도스,Barbados,BB,English,en
+바하마,Bahamas,BS,English,en
+방글라데시,Bangladesh,BD,Bengali,bn
+버뮤다,Bermuda,BM,English,en
+베냉,Benin,BJ,French,fr
+베네수엘라,Venezuela,VE,Spanish,es
+베트남,Vietnam,VN,Vietnamese,vi
+벨기에,Belgium,BE,"Dutch, French, German","nl, fr, de"
+벨라루스,Belarus,BY,"Belarusian, Russian","be, ru"
+벨로루시,Belarus,BY,"Belarusian, Russian","be, ru"
+벨리즈,Belize,BZ,English,en
+보스니아-헤르체고비나,Bosnia and Herzegovina,BA,"Bosnian, Croatian, Serbian","bs, hr, sr"
+보츠와나,Botswana,BW,English,en
+볼리비아,Bolivia,BO,Spanish,es
+부룬디,Burundi,BI,"Kirundi, French","rn, fr"
+부르키나파소,Burkina Faso,BF,French,fr
+부탄,Bhutan,BT,Dzongkha,dz
+북마케도니아,North Macedonia,MK,Macedonian,mk
+불가리아,Bulgaria,BG,Bulgarian,bg
+브라질,Brazil,BR,Portuguese,pt
+브루나이,Brunei,BN,Malay,ms
+사모아,Samoa,WS,"Samoan, English","sm, en"
+사우디아라비아,Saudi Arabia,SA,Arabic,ar
+산마리노,San Marino,SM,Italian,it
+상투메프린시페,Sao Tome and Principe,ST,Portuguese,pt
+세네갈,Senegal,SN,French,fr
+세르비아,Serbia,RS,Serbian,sr
+세이셸,Seychelles,SC,"Seychellois Creole, French, English","fr, en"
+세인트루시아,Saint Lucia,LC,English,en
+세인트빈센트,Saint Vincent and the Grenadines,VC,English,en
+세인트키츠네비스,Saint Kitts and Nevis,KN,English,en
+소말리아,Somalia,SO,Somali,so
+솔로몬군도,Solomon Islands,SB,English,en
+수단,Sudan,SD,Arabic,ar
+수리남,Suriname,SR,Dutch,nl
+스리랑카,Sri Lanka,LK,"Sinhala, Tamil","si, ta"
+스발바르,Svalbard and Jan Mayen,SJ,Norwegian,no
+스와질란드,Eswatini,SZ,"Swazi, English","ss, en"
+스웨덴,Sweden,SE,Swedish,sv
+스위스,Switzerland,CH,"German, French, Italian","de, fr, it"
+스페인,Spain,ES,Spanish,es
+슬로바크,Slovakia,SK,Slovak,sk
+슬로바키아,Slovakia,SK,Slovak,sk
+슬로베니아,Slovenia,SI,Slovene,sl
+시리아,Syria,SY,Arabic,ar
+시에라리온,Sierra Leone,SL,English,en
+싱가포르,Singapore,SG,"English, Mandarin, Malay, Tamil","en, zh, ms, ta"
+아랍에미리트연합,United Arab Emirates,AE,Arabic,ar
+아르메니아,Armenia,AM,Armenian,hy
+아르헨티나,Argentina,AR,Spanish,es
+아이슬란드,Iceland,IS,Icelandic,is
+아이티,Haiti,HT,"Haitian Creole, French","ht, fr"
+아일랜드,Ireland,IE,"Irish, English","ga, en"
+아제르바이잔,Azerbaijan,AZ,Azerbaijani,az
+아프가니스탄,Afghanistan,AF,"Dari, Pashto","fa, ps"
+안도라,Andorra,AD,Catalan,ca
+알바니아,Albania,AL,Albanian,sq
+알제리,Algeria,DZ,Arabic,ar
+앙골라,Angola,AO,Portuguese,pt
+앤티카바부다,Antigua and Barbuda,AG,English,en
+에리트레아,Eritrea,ER,"Tigrinya, Arabic, English","ti, ar, en"
+에스와티니,Eswatini,SZ,"Swazi, English","ss, en"
+에스토니아,Estonia,EE,Estonian,et
+에콰도르,Ecuador,EC,Spanish,es
+에티오피아,Ethiopia,ET,Amharic,am
+엘살바도르,El Salvador,SV,Spanish,es
+영국,United Kingdom,GB,English,en
+예멘,Yemen,YE,Arabic,ar
+예멘공화국,Yemen,YE,Arabic,ar
+오만,Oman,OM,Arabic,ar
+오스트레일리아,Australia,AU,English,en
+오스트리아,Austria,AT,German,de
+온두라스,Honduras,HN,Spanish,es
+요르단,Jordan,JO,Arabic,ar
+우간다,Uganda,UG,English,en
+우루과이,Uruguay,UY,Spanish,es
+우즈베키스탄,Uzbekistan,UZ,Uzbek,uz
+우크라이나,Ukraine,UA,Ukrainian,uk
+유고슬라비아,Yugoslavia (former),YU,Serbo-Croatian,sh
+이라크,Iraq,IQ,"Arabic, Kurdish","ar, ku"
+이란,Iran,IR,Persian,fa
+이스라엘,Israel,IL,Hebrew,he
+이집트,Egypt,EG,Arabic,ar
+이탈리아,Italy,IT,Italian,it
+인도,India,IN,"Hindi, English","hi, en"
+인도네시아,Indonesia,ID,Indonesian,id
+일본,Japan,JP,Japanese,ja
+자메이카,Jamaica,JM,English,en
+자이르,Zaire (former name of a country),CD,French,fr
+잠비아,Zambia,ZM,English,en
+적도기니,Equatorial Guinea,GQ,"Spanish, French, Portuguese","es, fr, pt"
+조지아,Georgia,GE,Georgian,ka
+중국,China,CN,Mandarin Chinese,zh
+중앙아프리카공화국,Central African Republic,CF,French,fr
+지부티,Djibouti,DJ,"French, Arabic","fr, ar"
+짐바브웨,Zimbabwe,ZW,English,en
+차드,Chad,TD,"French, Arabic","fr, ar"
+체코,Czech Republic,CZ,Czech,cs
+칠레,Chile,CL,Spanish,es
+카메룬,Cameroon,CM,"English, French","en, fr"
+카보베르데,Cabo Verde,CV,Portuguese,pt
+카자흐스탄,Kazakhstan,KZ,"Kazakh, Russian","kk, ru"
+카타르,Qatar,QA,Arabic,ar
+캄보디아,Cambodia,KH,Khmer,km
+캐나다,Canada,CA,"English, French","en, fr"
+케냐,Kenya,KE,"Swahili, English","sw, en"
+코모로,Comoros,KM,"Comorian, French, Arabic","fr, ar"
+코소보,Kosovo,XK,"Albanian, Serbian","sq, sr"
+코스타리카,Costa Rica,CR,Spanish,es
+코트디부아르,Cote d'Ivoire,CI,French,fr
+콜롬비아,Colombia,CO,Spanish,es
+콩고,Congo,CG,French,fr
+콩고민주공화국,Democratic Republic of the Congo,CD,French,fr
+쿠바,Cuba,CU,Spanish,es
+쿠웨이트,Kuwait,KW,Arabic,ar
+크로아티아,Croatia,HR,Croatian,hr
+키르기스스탄,Kyrgyzstan,KG,"Kyrgyz, Russian","ky, ru"
+키르기즈,Kyrgyzstan,KG,"Kyrgyz, Russian","ky, ru"
+키리바시,Kiribati,KI,"Gilbertese, English","en"
+키프로스,Cyprus,CY,"Greek, Turkish","el, tr"
+타이,Thailand,TH,Thai,th
+타이완,Taiwan,TW,Mandarin Chinese,zh
+타지키스탄,Tajikistan,TJ,Tajik,tg
+탄자니아,Tanzania,TZ,"Swahili, English","sw, en"
+태국,Thailand,TH,Thai,th
+터키,Türkiye,TR,Turkish,tr
+토고,Togo,TG,French,fr
+통가,Tonga,TO,"Tongan, English","to, en"
+투르크메니스탄,Turkmenistan,TM,Turkmen,tk
+투발루,Tuvalu,TV,"Tuvaluan, English","en"
+튀니지,Tunisia,TN,Arabic,ar
+튀르키예,Türkiye,TR,Turkish,tr
+트리니다드토바고,Trinidad and Tobago,TT,English,en
+티모르,Timor-Leste,TL,"Tetum, Portuguese","tet, pt"
+파나마,Panama,PA,Spanish,es
+파라과이,Paraguay,PY,"Spanish, Guarani","es, gn"
+파키스탄,Pakistan,PK,"Urdu, English","ur, en"
+파푸아뉴기니,Papua New Guinea,PG,English,en
+팔라우,Palau,PW,"Palauan, English","pau, en"
+팔레스타인,Palestine,PS,Arabic,ar
+페루,Peru,PE,Spanish,es
+포르투갈,Portugal,PT,Portuguese,pt
+폴란드,Poland,PL,Polish,pl
+프랑스,France,FR,French,fr
+피지,Fiji,FJ,"English, Fijian, Hindi","en, fj, hi"
+핀란드,Finland,FI,"Finnish, Swedish","fi, sv"
+필리핀,Philippines,PH,"Filipino, English","fil, en"
+헝가리,Hungary,HU,Hungarian,hu
+홍콩,Hong Kong,HK,"Cantonese, English","zh, en"
